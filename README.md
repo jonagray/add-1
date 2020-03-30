@@ -1,7 +1,7 @@
 # Add 1
 
 ## Description
-A practice game created to learn Swift
+A practice game created while learning to program in Swift
 
 ### Instructions
 * For each number that is displayed, the goal is to input the number + 1
